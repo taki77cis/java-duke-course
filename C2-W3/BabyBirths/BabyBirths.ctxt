@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BabyBirths
+comment1.params=
+comment1.target=void\ printNames()
+comment2.params=fr
+comment2.target=void\ totalBirths(edu.duke.FileResource)
+comment3.params=
+comment3.target=void\ testTotalBirths()
+comment4.params=name\ gender\ fr
+comment4.target=int\ getRank(java.lang.String,\ java.lang.String,\ edu.duke.FileResource)
+comment5.params=rank\ gender\ fr
+comment5.target=java.lang.String\ getName(int,\ java.lang.String,\ edu.duke.FileResource)
+comment6.params=
+comment6.target=void\ rankInAllYears()
+comment7.params=name\ gender\ fr
+comment7.target=int\ getRankMoreThan(java.lang.String,\ java.lang.String,\ edu.duke.FileResource)
+comment8.params=name\ genedr
+comment8.target=void\ getAverageRank(java.lang.String,\ java.lang.String)
+comment9.params=year
+comment9.target=edu.duke.FileResource\ getfilePath(java.lang.String)
+comment9.text=\ \ public\ String\ yearChangingName(String\ name,String\ genedr,String\ year){\r\n\ \ \ \ \ \ \ \ \ String\ Fname\="No\ Name";\r\n\ \ \ \ \ \ \ \ \ int\ Frank\=0;\r\n\ \ \ \ \ \ \ \ \ Frank\=getRank(name,genedr,year);\r\n\ \ \ \ \ \ \ \ \ Fname\=getName(Frank,genedr,year);\r\n\ \ \ \ \ \ \ \ \ return\ Fname;\r\n\ \ \ \ \ \ \ \ }\r\n
+numComments=10

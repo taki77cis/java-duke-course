@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=geneMap
+comment1.params=
+comment1.target=geneMap()
+comment2.params=txt
+comment2.target=void\ countWordsMap(java.lang.String)
+comment3.params=txt\ frm
+comment3.target=void\ frame(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ tester()
+numComments=5
