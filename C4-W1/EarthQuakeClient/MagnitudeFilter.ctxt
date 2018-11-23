@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MagnitudeFilter
+comment1.params=min\ max
+comment1.target=MagnitudeFilter(double,\ double)
+comment2.params=qe
+comment2.target=boolean\ test(QuakeEntry)
+numComments=3
